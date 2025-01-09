@@ -1,4 +1,11 @@
 
+
+h1{
+    background-color: red;
+}
+
+
+
 .flex {
     justify-content: center;
     align-items: center;
@@ -29,3 +36,5 @@ button {
 
 }
 
+
+  
