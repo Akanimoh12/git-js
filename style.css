@@ -1,0 +1,18 @@
+.flex {
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #555;
+    width: 200px;
+    border-radius: 5px;
+}
+
+h2 {
+    color: aqua;
+}
+
+button {
+    color: azure;
+    background-color: blue;
+    border-radius: 5px;
+}
+
